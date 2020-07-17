@@ -12,3 +12,7 @@ I love what I do, and I don't think I'm being prideful when I say I'm really goo
 I am also...
 ## A Globetrotter
 We currently live in Spain, but I grew up in Los Angeles.  We have lived in Ireland and Russia and Malta, but there is still so much to explore in the world, and I don't plan to stop anytime soon.
+
+This past week in coding:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
