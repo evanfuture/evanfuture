@@ -25,4 +25,4 @@ JSON         1 hr 39 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<img src="./solar.svg" width="800" height="250"/>
+<img alt="from Jamie Coulter https://codepen.io/jcoulterdesign/pen/yGgxOY" src="./solar.svg" width="800" height="250"/>
