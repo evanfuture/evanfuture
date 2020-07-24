@@ -25,4 +25,4 @@ JSON         1 hr 39 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-!(./solar.svg)
+<img src="solar.svg" alt="drawing" width="1200" height="1200"/>
