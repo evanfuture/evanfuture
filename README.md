@@ -23,3 +23,6 @@ JavaScript   3 hrs 6 mins    ██░░░░░░░░░░░░░░░
 JSON         1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 <!--END_SECTION:waka-->
+
+
+![](./solar.svg)
