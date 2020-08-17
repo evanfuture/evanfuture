@@ -17,10 +17,10 @@ This past week in coding:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   15 hrs 54 mins  ███████████░░░░░░░░░░░░░░   44.63 % 
-HTML         9 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   26.16 % 
+HTML         9 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
 SCSS         4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JavaScript   3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON         1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JavaScript   3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON         1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 <!--END_SECTION:waka-->
 
