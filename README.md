@@ -16,11 +16,11 @@ We currently live in Spain, but I grew up in Los Angeles.  We have lived in Irel
 This past week in coding:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   37 hrs 28 mins  ████████████████████▒░░░░   81.12 % 
-HTML         6 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-SCSS         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JavaScript   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+TypeScript   36 hrs 50 mins  ████████████████████▒░░░░   80.92 % 
+HTML         6 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+SCSS         1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JavaScript   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
 
